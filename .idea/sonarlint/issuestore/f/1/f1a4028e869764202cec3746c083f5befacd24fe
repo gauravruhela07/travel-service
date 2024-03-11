@@ -1,0 +1,23 @@
+
+»
+java:S6548	"A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(½Β¦‹όÿÿÿÿ8Ή„χα1
+[
+java:S2168"9Remove this dangerous instance of double-checked locking.(„Ψ ±ψÿÿÿÿ8Κ„χα1
+G	java:S106,"+Replace this use of System.out by a logger.(Ιόλ8Σ„χα1
+G	java:S106/"+Replace this use of System.out by a logger.(Κυ»8Τ„χα1
+G	java:S1063"+Replace this use of System.out by a logger.(›ϊ¨Υ8Ϊ„χα1
+L	java:S1066"+Replace this use of System.out by a logger.(Φδψÿÿÿÿ8ή„χα1
+G	java:S106<"+Replace this use of System.out by a logger.(ύ€θο8η„χα1
+G	java:S106>"+Replace this use of System.out by a logger.(Κυ»8ι„χα1
+G	java:S106?"+Replace this use of System.out by a logger.(ό«„8ι„χα1
+L	java:S106@"+Replace this use of System.out by a logger.(±¦ε±ψÿÿÿÿ8κ„χα1
+L	java:S106B"+Replace this use of System.out by a logger.(ΐθΏψÿÿÿÿ8ν„χα1
+G	java:S106D"+Replace this use of System.out by a logger.(†‚Β8ξ„χα1
+G	java:S106I"+Replace this use of System.out by a logger.(ΈΟ΅Ρ8ο„χα1
+G	java:S106N"+Replace this use of System.out by a logger.(†‚Β8π„χα1
+L	java:S106O"+Replace this use of System.out by a logger.(ΫΛ­άϊÿÿÿÿ8ρ„χα1
+G	java:S106V"+Replace this use of System.out by a logger.(©Γϋκ8σ„χα1
+L	java:S106\"+Replace this use of System.out by a logger.(όάύÿÿÿÿ8φ„χα1
+L	java:S106g"+Replace this use of System.out by a logger.(Φδψÿÿÿÿ8›„χα1
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(ΣσΊ΄ϊÿÿÿÿ8³ή†Έβ1

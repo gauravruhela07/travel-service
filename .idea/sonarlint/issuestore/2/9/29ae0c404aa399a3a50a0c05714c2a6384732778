@@ -1,0 +1,28 @@
+
+s
+java:S11923"QDefine a constant instead of duplicating this literal "Ropeway activity" 5 times.(Â¾á‘ùÿÿÿÿ8…Ûçâ1
+d
+java:S1192"GDefine a constant instead of duplicating this literal "Gaurav" 6 times.(±‚ûØ8†Ûçâ1
+j
+java:S11923"HDefine a constant instead of duplicating this literal "Ropeway" 5 times.(Â¾á‘ùÿÿÿÿ8†Ûçâ1
+o	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¿Òïõüÿÿÿÿ8“Ûçâ1
+I
+java:S1602(",Remove useless curly braces around statement(³ÄÛ‡8–Ûçâ1
+o	java:S100/"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚¬­£úÿÿÿÿ8—Ûçâ1
+N
+java:S16027",Remove useless curly braces around statement(Üó¡õşÿÿÿÿ8›Ûçâ1
+j	java:S100>"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‚ƒš«8›Ûçâ1
+Q
+java:S1481B"/Remove this unused "passenger4" local variable.(¡‰‡Íùÿÿÿÿ8Ûçâ1
+I
+java:S1602H",Remove useless curly braces around statement(³ÄÛ‡8Ûçâ1
+o	java:S100O"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(˜æ×Öıÿÿÿÿ8ŸÛçâ1
+o	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ˆ¿÷¤şÿÿÿÿ8¡Ûçâ1
+^
+java:S1128"ARemove this unused import 'exception.BalanceValidationException'.(²Û¡8òÎèâ1
+e
+java:S1128"HRemove this unused import 'org.junit.jupiter.api.Assertions.assertTrue'.(å¥Ş¬8òÎèâ1
+O
+java:S1128"-Remove this unused import 'java.util.Random'.(èøÉ›ùÿÿÿÿ8òÎèâ1
+X
+java:S1068";Remove this unused "travelManagementService" private field.(šÍû´8¥Ûçâ1
